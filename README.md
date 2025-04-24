@@ -39,58 +39,6 @@ The Flight ticket booking app is composed of the following Features:
 
 * Uses passport js for hashing the password before sending the data to the cloud.
 
-* This version does not support dynamic seat data being stored from cloud.
-
-
-This project also demonstrates:
-
-* a typcial React project layout structure
-
-**Screenshots:**
-Landing Page:
-
-![](documentationResources/homepage.png)
-
-Signing In Page:
-
-![](documentationResources/login.png)
-
-Flight Selection Page:
-
-![](documentationResources/booking.png)
-
-Seat Selection Page:
-
-![](documentationResources/seatselection.png)
-
-Payment & Confirmation Page:
-
-![](documentationResources/payment.png)
-
-Ticket Cancellation Page:
-
-![](documentationResources/cancellation.png)
-
-Integrated AI Chatbot:
-
-![](documentationResources/aichatbot.png)
----
-
-## Developed With
-
-* [Visual Studio Code](https://code.visualstudio.com/) - A source code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring
-* [Node.js](https://nodejs.org/en/) - Javascript runtime
-* [React](https://reactjs.org/) - A javascript library for building user interfaces
-* [Babel](https://babeljs.io/) - A transpiler for javascript
-* [Webpack](https://webpack.js.org/) - A module bundler
-* [SCSS](http://sass-lang.com/) - A css metalanguage
-* [Bootstrap 4](https://getbootstrap.com/) - Bootstrap is an open source toolkit for developing with HTML, CSS, and JS
-* [Axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
-* [Express js](http://expressjs.com/) - Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
-* [MongoDB atlas](https://www.mongodb.com/cloud/atlas) - MongoDB Atlas is the global cloud database service for modern applications.
-* [Passport Js](http://www.passportjs.org/) - Passport is authentication middleware for Node.js. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based web application.
----
-
 
 ## Getting Started
 
